@@ -1,0 +1,1 @@
+# projeto-de-Reconhecimento-Facial-e-de-Caracteres
